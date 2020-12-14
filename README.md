@@ -1,5 +1,5 @@
 # Test_Solution
-This repo contains a notebook with 2 types of bsaic problems solved using deep learning.
+This repo contains a notebook with 2 types(Computer Vision & NLP) of basic problems solved using deep learning.
 1. Binary Classifier for cats and dogs (Computer Vision)
 2. Sentiment Analysis (NLP)
 
